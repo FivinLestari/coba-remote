@@ -1,3 +1,7 @@
 planning of Product Management
 * menentukan produk
+<<<<<<< HEAD
 * menganalisis pasar
+=======
+* analisis pasar
+>>>>>>> f7b4793fb8de811ba4226dc473f0e258830cd54a
